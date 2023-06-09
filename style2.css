@@ -1,0 +1,31 @@
+html {
+    background-color: #000000;
+}
+
+main {
+    text-align: center;
+}
+
+button {
+    background-color: #ffffff;
+}
+
+#tabuleiro {
+    width: 480px;
+    height: 495px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    background-color: #ffffff;
+}
+
+.figura {
+    width: 100px;
+    margin: 10px;
+    height:100px;
+}
+
+/* .figura[status="confirmado"] {
+    pointer-events: none;
+} */
